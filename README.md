@@ -16,4 +16,4 @@ Here are some ideas to get you started:
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasukuwato&layout=compact&theme=gruvbox" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tasukuwato&theme=gruvbox&column=8&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tasukuwato&theme=gruvbox&column=8&rank=-C,B)](https://github.com/ryo-ma/github-profile-trophy)
