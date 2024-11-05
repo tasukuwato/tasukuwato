@@ -22,4 +22,4 @@ Whether it's analyzing complex data or navigating poker strategies, I enjoy divi
 <img src="https://skillicons.dev/icons?i=typescript,python," /> <br />
 
 ## ♥♦ FrameWorks and Library ♠♣
-<img src="https://skillicons.dev/icons?i=pycharm,fastapi,opencv,tensorflow" /> <br />
+<img src="https://skillicons.dev/icons?i=fastapi,opencv,tensorflow" /> <br />
