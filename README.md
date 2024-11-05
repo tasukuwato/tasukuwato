@@ -12,8 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasukuwato&layout=compact&theme=gruvbox" />
-</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tasukuwato&theme=gruvbox&column=8&rank=-C,B)](https://github.com/ryo-ma/github-profile-trophy)
+## ♥♦ Hi there ♠♣
+
+I'm a **NLH Poker Player🃏** and **Data Analyst📈**.  
+Whether it's analyzing complex data or navigating poker strategies, I enjoy diving into the details and uncovering insights. 
+
+## ♥♦ language ♠♣
+<img src="https://skillicons.dev/icons?i=typescript,python," /> <br />
+
+## ♥♦ FrameWorks and Library ♠♣
+<img src="https://skillicons.dev/icons?i=pycharm,fastapi,opencv,tensorflow" /> <br />
