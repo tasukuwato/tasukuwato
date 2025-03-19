@@ -21,4 +21,4 @@ I'm a NLH Poker Player
 <img src="https://skillicons.dev/icons?i=typescript,python," /> <br />
 
 ## ♥♦ FrameWorks and Library ♠♣
-<img src="https://skillicons.dev/icons?i=fastapi,opencv,tensorflow" /> <br />
+<img src="https://skillicons.dev/icons?i=fastapi" /> <br />
