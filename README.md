@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ## ♥♦ Hi there ♠♣
 
-I'm a **NLH Poker Player🃏** and **Data Analyst📈**.  
-Whether it's analyzing complex data or navigating poker strategies, I enjoy diving into the details and uncovering insights. 
+I'm a NLH Poker Player
 
 ## ♥♦ language ♠♣
 <img src="https://skillicons.dev/icons?i=typescript,python," /> <br />
